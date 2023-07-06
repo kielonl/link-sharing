@@ -10,6 +10,17 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        purple: "#633CFF",
+        purpleHover: "#BEADFF",
+        purpleLight: "#EFEBFF",
+        greyDark: "#333333",
+        grey: "#737373",
+        greyLight: "FAFAFA",
+        borders: "#D9D9D9",
+        white: "#FFFFFF",
+        red: "#FF3939",
+      },
       fontFamily: {
         instrumentSans: ["Instrument Sans", "sans-serif"],
       },
